@@ -45,12 +45,13 @@ To run this project, follow these steps:
 <br/>
 ![Floor 1](/Images/floor1.png)
 *Screenshot of Floor 1*
-<br/>
+<br/><br/>
 ![Floor 2](/Images/floor2.png)
-*Screenshot of Floor 2*
 <br/>
+*Screenshot of Floor 2*
+<br/><br/>
 ![Floor 3](/Images/floor3.png)
-*Screenshot of Floor 3*
+<br/>*Screenshot of Floor 3*
 <br/>
 ![Routers](/Images/routers.png)
 *Screenshot of Routers*
