@@ -41,16 +41,17 @@ To run this project, follow these steps:
 
 ![Overall View](/Images/image.png)
 *Screenshot of Overall Network*
-
+<br/>
+<br/>
 ![Floor 1](/Images/floor1.png)
 *Screenshot of Floor 1*
-
+<br/>
 ![Floor 2](/Images/floor2.png)
 *Screenshot of Floor 2*
-
+<br/>
 ![Floor 3](/Images/floor3.png)
 *Screenshot of Floor 3*
-
+<br/>
 ![Routers](/Images/routers.png)
 *Screenshot of Routers*
 
