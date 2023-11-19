@@ -59,6 +59,10 @@ To run this project, follow these steps:
 ## Contributors
 
 - Rohan Udhwani
+- Chirag Salwan
+- Prajwal Tandekar
+- Rahul Sharma
+- Sumer Jakhar
 
 ## Acknowledgments
 
